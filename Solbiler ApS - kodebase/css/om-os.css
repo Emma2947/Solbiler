@@ -1,0 +1,88 @@
+
+.wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 5px;
+    font-family: Arial, sans-serif;
+    font-size: 0.9rem;
+}
+
+.hoved_sektion {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.sidehoved {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+    cursor: pointer;
+    font-size: 1.1rem;
+}
+
+.om_os {
+    margin-left: 600px;
+}
+
+.login_symbol {
+    display: flex;
+    justify-content: center;
+}
+
+.sidehoved a{
+    text-decoration: none;
+    color: black;
+}
+
+.parallax { 
+    background-image: url("/billeder/road-trip.jpeg");
+    min-height: 400px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.parallax h1 {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 100px;
+    margin-top: 0px;
+    background-attachment: fixed;
+}
+
+.tekst  {
+    text-align: center;
+    margin: 80px 80px;
+}
+
+.tekst h2 {
+    font-size: 32px;
+}
+
+.tekst p {
+    font-size: 22px;
+}
+
+.parallax2 { 
+    background-image: url("/billeder/old-couple.webp");
+    min-height: 600px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.kontakt  {
+  text-align: center;
+    margin: 80px 80px;
+}
+
+.kontakt h2 {
+    font-size: 32px;
+}
+
+.kontakt p {
+    font-size: 22px;
+}

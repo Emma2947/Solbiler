@@ -1,0 +1,67 @@
+{
+    "billiste" : [
+    {
+        "bilmaerke" : "Suzuki Swift",
+        "billede": "billeder/suzuki.jpeg",
+        "billedtekst": "Billede af udlejningsbil",
+        "kategori" : "Budget",
+        "personer": "4",
+        "kufferter": "0",
+        "tillaeg": "0"
+    },
+    {
+        "bilmaerke" : "Mazda CX3",
+        "billede" : "billeder/mazda.png",
+        "billedtekst" : "Billede af udlejningsbil",
+        "kategori": "Mellemklasse",
+        "personer": "5",
+        "kufferter": "3",
+        "tillaeg": "60"
+    },
+    {
+        "bilmaerke": "Citroën Grand C4 Picasso",
+        "billede": "billeder/citroen.png",
+        "billedtekst": "Billede af udlejningsbil",
+        "kategori" : "Minivan",
+        "personer": "7",
+        "kufferter" : "4",
+        "tillaeg" : "105"
+    },
+    {
+        "bilmaerke": "Citroën Berlingo",
+        "billede": "billeder/berlingo.jpeg",
+        "billedtekst": "Billede af udlejningsbil",
+        "kategori" : "Mellemklasse",
+        "personer": "5",
+        "kufferter" : "4",
+        "tillaeg" : "50"
+    },
+    {
+        "bilmaerke": "Mazda 6",
+        "billede": "billeder/mazda6.png",
+        "billedtekst": "Billede af udlejningsbil",
+        "kategori" : "Mellemklasse",
+        "personer": "5",
+        "kufferter" : "4",
+        "tillaeg" : "70"
+    },
+    {
+        "bilmaerke": "Mazda MX 5 Miata",
+        "billede": "billeder/mazdamx5miata.png",
+        "billedtekst": "Billede af udlejningsbil",
+        "kategori" : "mellemklasse",
+        "personer": "2",
+        "kufferter" : "0",
+        "tillaeg" : "100"
+    },
+    {
+        "bilmaerke": "Suzuki Vitara",
+        "billede": "billeder/vitara.png",
+        "billedtekst": "Billede af udlejningsbil",
+        "kategori" : "Mellemklasse",
+        "personer": "5",
+        "kufferter" : "4",
+        "tillaeg" : "70"
+    }
+]
+}
